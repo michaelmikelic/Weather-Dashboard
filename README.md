@@ -1,2 +1,2 @@
 # Weather-Dashboard
-Assignment week 6 servicer side API
+Assignment week 6 server side API
